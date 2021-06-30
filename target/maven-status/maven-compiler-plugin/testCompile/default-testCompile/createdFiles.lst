@@ -1,0 +1,9 @@
+com\ebanking\Utilities\ReadConfig.class
+com\ebanking\PageObjects\LoginPage.class
+com\ebanking\testCases\loginTest_002.class
+com\ebanking\Utilities\XLutils.class
+com\ebanking\testCases\BaseClass.class
+com\ebanking\Utilities\Reporting.class
+com\ebanking\testCases\loginTest_001.class
+com\ebanking\PageObjects\AddCustomerPage.class
+com\ebanking\testCases\AddCustomerTest_003.class
